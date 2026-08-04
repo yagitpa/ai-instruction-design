@@ -37,7 +37,7 @@
 ### Claude Code
 
 ```bash
-git clone https://github.com/USERNAME/ai-instruction-design.git
+git clone https://github.com/yagitpa/ai-instruction-design.git
 cp -r ai-instruction-design/skills/ai-instruction-design ~/.claude/skills/
 ```
 
